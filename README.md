@@ -15,4 +15,4 @@
 - se mettre au niveau de `/frontend` dans le deuxième terminal et faire `npm install`
 - faire `npm start` pour lancer l'application qui ouvrira automatiquement une page internet avec le site groupomania
 
-#### Pour l'évaluation, l'admin sera envoyé en fichier .txt sinon il faut changer le tableau dans users account pour passer de user à admin.
+#### Pour l'évaluation, l'admin sera envoyé en fichier .txt sinon il faut changer le tableau dans users account pour passer de user à admin dans MongoDB.
